@@ -117,22 +117,47 @@ namespace SchoolHRAdministration
             IEmployee empolyee = null;
             switch (empolyeeType) 
             {
+                //case EmployeeType.Teacher:
+                //    empolyee = new Teacher { Id = id, FirstName = firstName, LastName = lastName, Salary = salary };
+                //    break;
+                //case EmployeeType.HeadOfDepartment:
+                //    empolyee = new HeadOfDepartment { Id = id, FirstName = firstName, LastName = lastName, Salary = salary };
+                //    break;
+                //case EmployeeType.DeputyHeadMaster:
+                //    empolyee = new DeputyHeadMaster { Id = id, FirstName = firstName, LastName = lastName, Salary = salary };
+                //    break;
+                //case EmployeeType.HeadMaster:
+                //    empolyee = new HeadMaster { Id = id, FirstName = firstName, LastName = lastName, Salary = salary };
+                //    break;
+                //default:
+                //    Console.WriteLine("undefined empolyee type");
+                //    break;
+
                 case EmployeeType.Teacher:
-                    empolyee = new Teacher { Id = id, FirstName = firstName, LastName = lastName, Salary = salary };
+                    empolyee = FactoryPattern<IEmployee, Teacher>.GetInstance();
                     break;
                 case EmployeeType.HeadOfDepartment:
-                    empolyee = new HeadOfDepartment { Id = id, FirstName = firstName, LastName = lastName, Salary = salary };
+                    empolyee = FactoryPattern<IEmployee, HeadOfDepartment>.GetInstance();
                     break;
                 case EmployeeType.DeputyHeadMaster:
-                    empolyee = new DeputyHeadMaster { Id = id, FirstName = firstName, LastName = lastName, Salary = salary };
+                    empolyee = FactoryPattern<IEmployee, DeputyHeadMaster>.GetInstance();
                     break;
                 case EmployeeType.HeadMaster:
-                    empolyee = new HeadMaster { Id = id, FirstName = firstName, LastName = lastName, Salary = salary };
+                    empolyee = FactoryPattern<IEmployee, HeadMaster>.GetInstance();
                     break;
                 default:
                     Console.WriteLine("undefined empolyee type");
                     break;
             }
+            if (empolyee != null)
+            {
+                empolyee.Id = id;
+                empolyee.FirstName = firstName;
+                empolyee.LastName = lastName;
+                empolyee.Salary = salary;
+            }
+            else
+                throw new NullReferenceException();
             return empolyee;
         }
     }
