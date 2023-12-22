@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HRAdministrationAPI\HRAdministrationAPI.csproj">
+      <Project>{d619d0b4-9019-42ad-a19a-8bee2e8b3a7b}</Project>
+      <Name>HRAdministrationAPI</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

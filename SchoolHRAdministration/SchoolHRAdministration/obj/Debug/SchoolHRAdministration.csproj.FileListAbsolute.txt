@@ -1,0 +1,10 @@
+C:\Users\27571\OneDrive\桌面\advance C#\Advanced-.net-C-project\SchoolHRAdministration\SchoolHRAdministration\bin\Debug\SchoolHRAdministration.exe.config
+C:\Users\27571\OneDrive\桌面\advance C#\Advanced-.net-C-project\SchoolHRAdministration\SchoolHRAdministration\bin\Debug\SchoolHRAdministration.exe
+C:\Users\27571\OneDrive\桌面\advance C#\Advanced-.net-C-project\SchoolHRAdministration\SchoolHRAdministration\bin\Debug\SchoolHRAdministration.pdb
+C:\Users\27571\OneDrive\桌面\advance C#\Advanced-.net-C-project\SchoolHRAdministration\SchoolHRAdministration\bin\Debug\HRAdministrationAPI.dll
+C:\Users\27571\OneDrive\桌面\advance C#\Advanced-.net-C-project\SchoolHRAdministration\SchoolHRAdministration\bin\Debug\HRAdministrationAPI.pdb
+C:\Users\27571\OneDrive\桌面\advance C#\Advanced-.net-C-project\SchoolHRAdministration\SchoolHRAdministration\obj\Debug\SchoolHRAdministration.csproj.AssemblyReference.cache
+C:\Users\27571\OneDrive\桌面\advance C#\Advanced-.net-C-project\SchoolHRAdministration\SchoolHRAdministration\obj\Debug\SchoolHRAdministration.csproj.CoreCompileInputs.cache
+C:\Users\27571\OneDrive\桌面\advance C#\Advanced-.net-C-project\SchoolHRAdministration\SchoolHRAdministration\obj\Debug\SchoolHRAdministration.csproj.CopyComplete
+C:\Users\27571\OneDrive\桌面\advance C#\Advanced-.net-C-project\SchoolHRAdministration\SchoolHRAdministration\obj\Debug\SchoolHRAdministration.exe
+C:\Users\27571\OneDrive\桌面\advance C#\Advanced-.net-C-project\SchoolHRAdministration\SchoolHRAdministration\obj\Debug\SchoolHRAdministration.pdb

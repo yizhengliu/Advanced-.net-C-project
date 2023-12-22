@@ -1,0 +1,6 @@
+C:\Users\27571\OneDrive\桌面\advance C#\Advanced-.net-C-project\SchoolHRAdministration\HRAdministrationAPI\bin\Debug\HRAdministrationAPI.dll
+C:\Users\27571\OneDrive\桌面\advance C#\Advanced-.net-C-project\SchoolHRAdministration\HRAdministrationAPI\bin\Debug\HRAdministrationAPI.pdb
+C:\Users\27571\OneDrive\桌面\advance C#\Advanced-.net-C-project\SchoolHRAdministration\HRAdministrationAPI\obj\Debug\HRAdministrationAPI.csproj.AssemblyReference.cache
+C:\Users\27571\OneDrive\桌面\advance C#\Advanced-.net-C-project\SchoolHRAdministration\HRAdministrationAPI\obj\Debug\HRAdministrationAPI.csproj.CoreCompileInputs.cache
+C:\Users\27571\OneDrive\桌面\advance C#\Advanced-.net-C-project\SchoolHRAdministration\HRAdministrationAPI\obj\Debug\HRAdministrationAPI.dll
+C:\Users\27571\OneDrive\桌面\advance C#\Advanced-.net-C-project\SchoolHRAdministration\HRAdministrationAPI\obj\Debug\HRAdministrationAPI.pdb
